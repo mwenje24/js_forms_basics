@@ -1,0 +1,11 @@
+.user-form{
+  background: #f0f8ff;
+  margin: auto;
+}
+.error{
+  background: orangered;
+  color: #fff;
+  padding: 5px;
+  margin: 5px;
+  border-radius: 3px;
+}
